@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+    <head>
+       <meta charset="utf-8">
+        <title>music introduction</title> 
+        <style>
+            body{background:rgba(233, 239, 255, 0.806)}
+            header{float:center;width: 15%;height: 50px; margin: 1%; background:rgba(240, 204, 190, 0.913) }
+            main{margin: 1%;background: rgba(240, 204, 190, 0.913);}           
+            nav{margin: 1%;color:black; background:antiquewhite ;}
+            footer{margin: 1%;color:rgb(100, 94, 94);}
+        </style>
+    </head>  
+<body>
+    <header><h1><i><dt>歌手推薦</dt></i></h1></header>
+        <h3>G.E.M.鄧紫棋</h3>
+    <nav><h4><p><li><a href="https://youtu.be/gCQuEakOEFo">《天空沒有極限 THE SKY》</a></li></p></h4></nav>
+    <main><p><h4>華語創作天后G.E.M.鄧紫棋第八張創作大碟《啓示錄》</h4></p>
+        <p><h4>第十四波終極主打《天空沒有極限》，為啟示之旅寫下完美終章!</h5></p>
+        
+        <p><h4>七封致天堂的信，七封天堂的回信。拆開《啓示錄》的最後一封信《天空沒有極限》，曾經遭遇的種種，都只是在試煉我們的信心，當我們不再懷疑，真正相信自己相信愛，未來真的無邊。</h4></p>
+        
+        <p><h4>對於歌迷來說，《天空沒有極限》並不陌生，這是一首很多歌迷都翹首以待想聽到完整版的歌曲。在G.E.M.鄧紫棋踏入30歲的階段，她確實真真切切地看見，她的世界要大放異彩，她的天空沒有極限。這除了是對自己的一種期許以外，也是在收到前面六封天堂的回信之後，真正讓愛活在自己裡面時的信心。而基於這首歌特別的意義，G.E.M.鄧紫棋更邀請了M9 Marginal Youth Singing Choir一眾與她有共同信仰的年輕人，參與歌曲結尾大合唱的部分，寓意新的一代同樣有著無邊的未來！</h4></p>
+        
+        <p><h4>而《啓示錄》音樂連續劇的MV故事也來到了大結局，Gloria（G.E.M.鄧紫棋飾）臨走前說的話，在秋（G.E.M.鄧紫棋飾）心裡慢慢紮根，伴隨著Evan（孫晨竣飾）鍥而不捨的隔空關心與鼓勵，讓秋終於慢慢能相信，真實的自己是會被愛的。她不再拋棄自己，重新打扮自己，並開始了復健訓練。一天，Evan如常來到秋的門口放下小禮物，卻第一次聽到了開門聲。眼前是裝上了義肢，站著開門的秋。天台上，Evan問了在樂土世界向Gloria表白時一模一樣的問題，不一樣的是，這一次，面對愛，秋再也沒有閃躲。全劇終。</h4></p>
+        
+        <p><h4>G.E.M.鄧紫棋第八張全創作專輯《啓示錄》圓滿落幕，但只要我們願意，愛的啟示依然會每天臨到我們的心中。願每個人每一天都經歷到愛。愛是永不止息。</h4></p>
+    </main>
+<footer><p><h6>&copy;內文取自G.E.M.鄧紫棋看法，排版設計By Lisa</h6></p></footer>
+</body>
