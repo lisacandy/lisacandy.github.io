@@ -6,75 +6,166 @@
         <title>Music Recommendation</title>
         <style>
             body{background-color: rgba(206, 201, 217, 0.938);}
-            header{float:center;width: 100%;height: 120px;margin:1px;color:white;background-color: rgb(252, 214, 199);}
-            nav{width: 100%;height: 30px;margin:1px;border-left: 5px solid gray;color: white;background-color: rgb(252, 214, 199)}
+            header{float:center;width: 100%;height: 120px;margin:1px;color:gray;background-color: rgb(252, 214, 199);}
+            nav{width: 100%;height: 30px;margin:1px;border-left: 5px solid gray;color:gray;background-color: rgb(252, 214, 199)}
+            details{color: white;background-color: rgb(252, 214, 199)}
+            footer{color: rgb(100, 94, 94);}
         </style>
-    </head>
+    </head> 
     <body>
         <header><h1 align="center"><i><dt><b><br>G.E.M.鄧紫棋《啓示錄》</b></dt></i></h1></header>
-          <h3>鄧紫棋帶著她的新專輯《啓示錄》回來啦!14首新歌、14個MV，和一個她人生中首次擔任編劇的完整故事。</h3>
-        <nav><h3><p><a href=" https://youtu.be/stGUpMav1sc">《GLORIA》</a></p></h3></nav>
-        <main><p>華語創作天后G.E.M.鄧紫棋第八張全創作專輯《啓示錄》，首波核心主打《GLORIA》為啟示之路掀開神聖序幕！
-            <p>七封致天堂的信，七封天堂的回信。經過潛心閉關，G.E.M.鄧紫棋終於帶來2022年全新創作專輯《啓示錄》的第一封信《GLORIA》，帶我們踏上這條關於愛的啟示之路。</p>
-            <p>《GLORIA》的誕生源於G.E.M.鄧紫棋的英文原名Gloria。她分享道：「Gloria是爸爸給我取的名字。我從小就覺得很好聽，而且充滿榮耀。長大了，更認定這是我的使命 - 在世上作鹽作光。」當2022的世界變得如此魔幻，G.E.M.鄧紫棋在壓抑的大環境下，安靜誠實地探尋自己的內心，希望用最真實的生命影響生命：「因為我們成了一臺戲，給世人和天使觀看。」</p>
-            <p>音樂方面，流動的電子音色營造了荒野的基底色調；副歌裡808與和聲的簡潔搭配，營造了在靈裡那簡單卻震撼的呼喚；加上電吉他、弦樂的層層遞進，還有那帶著平安的歌聲，我們彷彿能聽到Gloria在最絕望時那從天而來聖潔榮耀的安慰。</p>
-            <p>音樂錄影帶方面，G.E.M.鄧紫棋史無前例以連續劇形式呈現整張專輯每一首歌，為流行樂壇展開歷史的新一頁。首次擔任主創、編劇及監製的她，聯同全能影像創作人林博導演共同打造14集音樂連續劇。整張專輯每一首歌都有一個獨立MV，串起來卻是一個有連續劇情的大故事。G.E.M.鄧紫棋坦言：「在這個碎片時代，已經很少觀眾有耐心完整聽完一首歌，但是我卻有14首我認為極其珍貴的啟示想與大家分享，終於我想到了音樂連續劇這一種新的形式，希望能吸引觀眾用心聽完專輯裡的每首作品。」為此，G.E.M.鄧紫棋開始了人生中第一次的劇本寫作，創作了屬於自己的第一個原創故事。</p>
-            <p>在元宇宙遇上愛，這是網絡3.0時代愛的啟示。故事以虛擬世界為背景，呈現當今社會的真實面貌，包括人對自我形象缺乏安全感的掙扎和焦慮、在生活種種挫折下的迷失，還有網絡暴力對人心與關係的撕裂等等問題，從而引出對一場關於愛的深思。愛，就是我們在此刻壓抑的大環境下，最需要學習的課題。</p>
-            <p>首集開端，Gloria（G.E.M.鄧紫棋飾）身處荒蕪的「廢土」中，周圍是殘垣斷壁的建築，整座城市失去了生機。她望向那熟識的廣告牌「Welcome to AFTERLAND」，她知道自己再也回不去。她黯然無光地在廢土穿行，越過黑沙來到海邊，絕望地祈禱。正當她無力地跪倒在海面之際，海水竟然向兩邊分開，萬丈海浪，高聳成牆，啓示之門從這一刻起正式打開。</p></main>
-        <nav><h3><p><a href=" https://youtu.be/JflOKxCx97o">《HELL》</a></p></h3></nav>
-        <main><p>拆開《啓示錄》的第二封信《HELL》，G.E.M.鄧紫棋用搖滾編曲與炸裂唱腔呈現每個情緒被魔鬼煽動的當下。慾望的縱容、情緒的失控，都會為一段關係點燃毀滅性的火種。當愛情參雜著佔有、控制、猜忌等等，無論開始多美好都終將走向滅亡。</p>
-             <p>為打造情緒如此強烈的第二主打，G.E.M.鄧紫棋選擇了標誌性的流行搖滾曲風，加上時而脆弱無力時而頑強掙扎的唱腔，營造猶如置身地獄被熊熊烈火包圍，讓人窒息的氛圍。而MV故事來到第二集，一場致命的車禍，揭開了秋（G.E.M.鄧紫棋飾）和男友Carl（Mark Ngai飾）原本美好的戀愛一步步被瓦解的過程。關於爭吵，關於混亂，關於破碎不堪的家，關於火焰翻滾的公路。到底是什麼原因讓這一切發生了天翻地覆的變化？</p></main>
-        <nav><h3><p><a href=" https://youtu.be/UNgHD07NQKU">《只有我和你的地方 ME & YOU》</a></p></h3></nav>    
-            <main><p>拆開《啓示錄》的第三封信《只有我和你的地方》，G.E.M.鄧紫棋以浪漫性感的律動，夢幻迷離的唱腔，帶大家進入愛情最動人的瞬間。</p>
-                <p>之所以說「墜入愛河」，是因為「墜」是一個讓人放開雙手，失去一切控制的過程。在你墜入愛河的一瞬間，你不再有所保留，心卻也因為這樣而充滿自由和勇氣，無懼一切。你完全沉浸在只有兩個人的世界，周遭即使狂風暴雨都與你無關。有別於G.E.M.鄧紫棋過往滿有力量的聲音，這一次貫穿全曲的是纏綿動人，偏重氣聲的唱腔。而編曲帶點科幻的R&B曲風，則成功營造了讓人猶如置身夢境般的浪漫氛圍。</p>
-                <p>MV方面，故事來到第三集，Gloria（G.E.M.鄧紫棋飾）在元宇宙AFTERLAND（樂土）中邂逅男主角Evan（孫晨竣飾）。從相識到相愛，要從YOUNG MAN & SEA 這家酒吧說起，一杯名為「銀色漩渦」的飲料，見證了他們為彼此掉進迷人的愛情漩渦。他們每晚都相約在樂土，在無人的街道奔跑，在打烊的酒吧裡相擁，在整個城市裡穿行。有一天Evan開車帶Gloria來到樂土的邊界，觀賞這伸手觸碰才能看見的，直通天際的巨型紫色隔離層。浪漫氣氛之下，Evan終於鼓起勇氣想於線下相約，二人美好甜蜜的關係卻從這一刻開始產生了變化......</p></main>
-        <nav><h3><p><a href=" https://youtu.be/F4vGFscB_fg">《你不是第一個離開的人 MAN WHO LAUGHS》</a></p></h3></nav>
-            <main><p>拆開《啓示錄》的第四封信《你不是第一個離開的人》，這是她剛強快樂的外表下，最真實破碎的心聲...</p>
-                <p>「可我笑裡為何帶著淚光，而你為何沒發現？」從2008年出道至今已十四年的G.E.M.鄧紫棋早就經歷過各種悲歡離合。無論是親人離世還是戀人離合，還是朋友、工作夥伴或歌迷的聚散，她早就明白世上沒有永遠留下的人，只有還沒離開的人。表面上是華語樂壇中流砥柱的創作天后，在舞台上如此活力自信，帶給每個人歡笑，生活裡卻跟每一個小女生一樣，害怕離別，害怕失去。這種被隱藏在笑容之下的脆弱和孤單，只有在無人的深夜裡，才被袒露出來。歌曲的靈感來自世界知名法國作家維克多 · 雨果的小說《笑面人》，沒有豪華絢麗的編曲，沒有驚艷炫技的展示，只有簡單的鋼琴、管弦樂，和內心最真實感觸的剖白。</p>
-                <p>MV故事來到第四集，Gloria（G.E.M.鄧紫棋飾）醒來發現自己身處荒蕪的廢土，一切如此熟悉，卻又如此陌生。曾經充滿著美好回憶的樂土，是如何變成如今一片死寂的廢土？。從此她蒐集著每一滴滿載回憶的眼淚，度日如年地活著。有一天她在廢土的邊界溜達，卻意外發現Evan（孫晨竣飾）也開車來到這裡。原來Evan在Gloria無故下線後，去遍在樂土曾經見證過他們愛情萌芽的每一處地方，苦苦追尋著她。望著眼前這朝思暮想渴望再見到的身影，Gloria猶如在黑夜看見曙光，開心地想Evan跑過去，卻忘了彼此之間有著一個無法穿越的隔離層。Gloria這才發現原來在Evan的眼前，自己彷如一片虛無。到底是什麼讓二人從此相隔兩個世界？到底Gloria是已經從一個美夢中醒來，還是正身處一個噩夢之中？</p></main>
-        <nav><h3><p><a href=" https://youtu.be/eyn1qklZhPo">《不想回家 SOLITUDE》</a></p></h3></nav>
-            <main><p>拆開《啓示錄》的第五封信《不想回家》，G.E.M.鄧紫棋聯手內地知名嘻哈製作人老道帶來這首優美卻不失律動的Trap旋律說唱。</p>
-                <p>自從在上一張專輯《摩天動物園》裡加入了大量說唱元素而大獲成功後，G.E.M.鄧紫棋相繼推出《孤獨》、《無雙的王者》等各具特色的說唱歌曲，行業間備受好評。如今新專輯裡繼續帶來極具個人特色的旋律說唱，展現說唱與歌藝的高度融合。略帶孤單的和弦、流動感十足的鍵盤和吉他、律動感極強的鼓點，為歌曲建構了強烈的流行感。在flow的編排上，G.E.M.鄧紫棋給出讓人雙眼為之一亮的編排。主歌段落中抓住了特別的律動與停頓，副歌旋律更是朗朗上口，加上讓人深有共鳴的歌詞，初聽就讓人留下深刻印象。</p>
-                <p>MV故事來到第五集。秋（G.E.M.鄧紫棋飾）每天戴著VR眼鏡，與好友露露（歐陽娜娜飾）沉醉於元宇宙AFTERLAND（樂土）。有一天秋在樂土的角色Gloria（G.E.M.鄧紫棋飾）居然在搜索「附近的人」時看見對面大廈新搬進來的住戶Evan（孫晨竣飾），兩人開始譜寫一段浪漫的故事。一切美好如夢，直到那一天，Evan提出希望相約線下，秋一時間無法想像要用自己真實的樣子面對Evan，慌亂間決定删除自己的帳號......</p></main>
-        <nav><h3><p><a href=" https://youtu.be/wDsO97LiutM">《受難曲 PASSION》</a></p></h3></nav>
-            <main><p>拆開《啓示錄》的第六封信《受難曲》，G.E.M.鄧紫棋驚喜與 內地新聲代⻤才音樂人太一首次聯動，以驚喜萬分的曲風揭露那些躲在匿名國度裡的猙獰面目。</p>
-                <p>自從互聯網誕生開始，網絡逐漸變成人類新的戰場。這裡缺乏對真相的􏰀視，缺乏對言語的負責， 卻從不缺乏對他人的審判。G.E.M.鄧紫棋也曾遭遇「全網黑」的網絡暴力，曾因此足不出戶，終日 以淚洗面。她慶幸自己已從舊日可怕的網絡暴力中走出來，找到了面對的方法，卻始終痛恨這種躲 在屏幕後面的有恃無恐。眼見網絡暴力在現實中釀成多不勝數的悲劇，不論公眾人物還是普羅大 眾，新聞上不時出現有人因為受到網絡暴力而自盡離世的新聞，G.E.M.鄧紫棋把心中無處宣洩的悲 憤化為力量，呼籲大眾共同拒絕網絡暴力!</p>
-                <p>歌曲方面，《受難曲》可算是G.E.M.鄧紫棋出道以來最具實驗性的作品之一。G.E.M.鄧紫棋先為歌 曲寫了一段具有濃烈古典氣息的前奏，卻選用詭異的音樂盒音色彈奏，為歌曲奠定荒誕的基調。而 編曲的暗黑詭祕配以情緒爆裂的說唱，無情揭露網路世界扭曲、陰暗的一面。歌曲結構方面，亦可 見其􏰂心與突破，全曲沒有任何一個段落􏰀複，在流行音樂作品裡實屬鮮有。演唱上，G.E.M.鄧紫 棋亦再度超越自己，為了營造在網絡暴力中絕望的求救，歌曲末段更是突破過往所有作品的音域的 極限，再一次驗證了那句「只有鄧紫棋才能超越鄧紫棋」。</p>
-                <p>而MV故事來到了第六集，Carl(Mark Ngai飾)原來是一個當紅模特，他與秋(G.E.M.鄧紫棋飾) 的戀情被偷拍曝光，火速登上新聞頭條，評論區各種嘲諷與謾罵刺痛著她的心。她努力壓抑著內心 的波動來到拍攝現場繼續工作，尖酸刻薄的言語卻早就給她造成更深的自卑......</p></main>
-        <nav><h3><p><a href=" https://youtu.be/hwENuZHFTj0">《冰河時代 ICE AGE》</a></p></h3></nav>
-            <main><p>拆開《啓示錄》的第七封信《冰河時代》，我們終於等到了G.E.M.鄧紫棋的招牌「鄧氏情歌」！</p>
-                <p> G.E.M.鄧紫棋唱作十四年，各種風格都信手拈來，新專輯前六首歌無論是詞曲還是編曲製作還是創新的音樂連續劇MV，都已經全然展示了比過往專輯更上幾層樓的品質，成為她音樂道路上全新的里程碑。而來到新專輯的第七首主打，G.E.M.鄧紫棋再次聯手內地全能音樂人宮閣，打造氛圍感十足的輕搖滾情歌《冰河時代》。</p>
-                <p>經歷過《Hell》的爆裂炙熱，這一次G.E.M.鄧紫棋帶我們經歷《冰河時代》的極寒風暴。能摧毀愛情的不只是慾望的放縱或情緒的失控，還有驕傲的作崇和愛與責任的失重。多少戀人從剛開始很願意溝通自己的情緒和想法，卻因為種種原因慢慢開始自我抽離，變得不願再表達需求而漸生隔膜？多少愛情從剛萌芽的時候做什麼都心甘樂意，到後來很多事情變成只是出於責任而越發覺得很壓抑？多少人不是不愛了，只是愛得累了？多少人眼睜睜看著炙熱的愛情慢慢變冷，卻不明所以也不知所措？這首歌描繪的，正是當愛情進入冰河時代的無奈。</p>
-                <p>MV故事來到第七集，自從Gloria（G.E.M.鄧紫棋飾）在樂土消失後，秋（G.E.M.鄧紫棋飾）常常坐在窗前偷看對面大廈惆悵的Evan（孫晨竣飾）。秋知道Evan正是因為自己而傷心，她卻不敢讓這份感情繼續發展。而Evan長時間尋找Gloria未果，作為一位計算機工程師，他開始產生了一個實驗性的想法。他每天待在倉庫，埋頭製造機器人，希望追縱Gloria在樂土的數據，把她帶到現實世界中。秋久久不見Evan回家，心裡很是忐忑，到底她和Evan的故事還能繼續嗎？終於她寫了一封信，決定把這段感情的命運交給神......</p></main>
-        <nav><h3><p><a href=" https://youtu.be/5R4y4ZVgR70">《少年與海 YOUNG MAN & SEA》</a></p></h3></nav>    
-            <main><p>拆開《啓示錄》的第八封信《少年與海》，短短53字的歌詞中，G.E.M.鄧紫棋發出最沉重的靈魂拷問：我為何醒來？我該如何存在？</p>
-                <p>有別於過往的作品，G.E.M.鄧紫棋以偏向電影配樂的方式處理《少年與海》這首作品。戲劇化又富有張力的編曲，以鋼琴和管弦樂為主色彩，層層遞進，就像渺小的自己站在茫茫大海面前，孤獨地感受著自己一切疑惑，帶出少年在人生過程中苦苦尋求答案的內心掙扎。</p>
-                <p>MV故事來到第八集。原來那時候秋（G.E.M.鄧紫棋飾）是一名年輕有才的新晉設計師，加入了大品牌工作，像一顆閃閃發光的寶石，自信美麗。 露露（歐陽娜娜飾）是秋最好的朋友，也是最有默契的工作夥伴。在一次時裝秀的後台，秋認識了當時為品牌走秀的當紅模特Carl（Mark Ngai飾），兩人迅速相戀。一切本來如此美好，直到那一次致命的車禍。剛出院的秋，難以適應輪椅生活。一個外表亮麗，又對美有極高追求的人，一下子變成了殘缺的狀態，是一種很大的打擊。於是她變得不願意出門，甚至把最好的朋友也拒之門外......</p></main>
-        <nav><h3><p><a href=" https://youtu.be/7CgVQPwd9M8">《老人與海 OLD MAN & SEA》</a></p></h3></nav>    
-            <main><p>拆開《啓示錄》的第九封信《老人與海》，那個面對著生活狂風驟雨的少年，等到了老人的回答。</p>
-                <p>上一首《少年與海》與這一首《老人與海》是兩首密不可分的作品，承上啓下，日月呼應，靈感均來自20世紀最著名作家之一歐內斯特 · 海明威生前最後一部主要作品《老人與海》。G.E.M.鄧紫棋回想入行十四年，她曾無數次被人生的巨浪一次次衝擊著，遍體鱗傷。於是在《少年與海》裡，她表達了這種渺小的自己面對殘酷的茫茫大海的無力與困惑。但當人尋求，就會尋見。終於她等到了這一封天堂的回信。G.E.M.鄧紫棋形容《老人與海》就像是神直接在她心裡寫下的答案：「桑田滄海，愛是依舊無改，我是因愛而在，為愛醒來。」</p>
-                <p>而命運也好像在給這個少年再一次的機會，親身體驗這種因著愛的堅定不移。在《啓示錄》音樂連續劇MV的拍攝過程中，G.E.M.鄧紫棋經歷著一路波折，面對疫情、人力物力缺失、拍攝期間多次必須中途叫停、接連需要更換演員重拍等諸多困擾，一個個衝擊就像歌曲裡「殘酷的大海」。但這一次，G.E.M.鄧紫棋心裡卻很是堅定，她相信這一張專輯是她在這瘋狂世代裡的一個使命，要為破碎的心帶來盼望。無論有多少困難，愛就是不放棄，不動搖。她與團隊一起懷著信心排除困難，傾盡全力，終於完成了整張專輯的音樂連續劇MV拍攝。</p>
-                <p>而MV來到第九集，我們也終於看見因著愛的奇蹟。當時在Gloria（G.E.M.鄧紫棋飾）絕望之際，海水為她分開，萬丈海浪，高聳成牆。當她步向海中心為她打開的那扇門，現實裡屢敗屢試，苦苦尋覓著Gloria的Evan（孫晨竣飾），終於成功把Gloria在樂土世界的數據下載到機器人身體中。原來奇蹟不止臨到了在海邊無力跪下的Gloria，也臨到了在倉庫中看著機器人Gloria慢慢甦醒的Evan。</p></main>
-        <nav><h3><p><a href=" https://youtu.be/1YWmCiWCxlE">《FIND YOU》</a></p></h3></nav>    
-            <main><p>開《啓示錄》的第十封信《FIND YOU》，這是一份沒有任何人、任何事能攔阻的熱忱。</p>
-                <p>如果說《老人與海》是愛恆久不變，溫柔守護的一面，那麼《FIND YOU》就是愛跨越重山，熱切追隨的另一面。歌曲從靈動又充滿力量的弦樂開始，伴隨副歌鼓點的切入和G.E.M.鄧紫棋歌聲裡激昂的熱情，愛的永不止息如同徹耳貫雷瞬間湧入，讓人體會到那種緊緊相隨，永不放手的決心。</p>
-                <p>而MV故事來到第十集，排除萬難把Gloria（G.E.M.鄧紫棋飾）的數據從樂土帶到現實的Evan（孫晨竣飾），帶著這個剛甦醒的AI機器人重新認識世界。就像過往在樂土世界一樣，如今他們在現實裡一起分享著很多快樂的時光，而Gloria作為一個AI機器人，也快速地學習著Evan的一切，包括他的廚藝，和他的愛。</p></main>
-        <nav><h3><p><a href=" https://youtu.be/2203HZpe0_Q">《離心力 F=mw²r》</a></p></h3></nav>    
-            <main><p>拆開《啓示錄》的第十一封信《離心力》，是一份極其珍貴的禮物：自由意志。</p>
-                <p>愛是給予對方選擇的權利，就像生命給了我們自由意志。認真思索，我們不難發現自由意志背後那份愛，有著多大的包容。凡事相信，凡事盼望，凡事忍耐，凡事包容，這樣的愛才讓那明明很有可能會「離心」的我們，仍然有選擇的自由。為了突顯這份愛背後所承受著沉重的痛，G.E.M.鄧紫棋選擇了首次嘗試迷幻DISCO曲風，充滿金屬感的音色和充滿迫切感的律動，營造出在愛裡給予選擇的一刻，心中感受到的那種動魄驚心的「離心力」。</p></main>
-        <nav><h3><p><a href=" https://youtu.be/wpyVeB9y0ok">《讓世界暫停一分鐘 ONE MINUTE》</a></p></h3></nav>    
-            <main><p>拆開《啓示錄》的第十二封信《讓世界暫停一分鐘》，讓翻騰的心，安靜一分鐘。</p>
-                <p>這幾年世界發生著翻天覆地的改變，肆虐的疫情是全人類正在共同面對的考驗，還有鄰國戰爭、以及世界各地各種天災人禍。生命的消逝、經濟的蕭條、病毒的入侵、食物的缺失、行動的限制等，我們禁不住會想，這個熟悉的世界好像已變得面目全非。而G.E.M.鄧紫棋也在這幾年間，於自己的生活裡經歷著各種困難，包括與前公司的法律訴訟，還有建立新團隊的種種挑戰。在被反反覆覆的困境包圍得寸步難行時，那曾是她最真實、最簡單的祈禱：「能不能，讓世界暫停一分鐘？」結果她真的慢慢聽到了回應，感受到陪伴，她翻騰的心，真的回歸了平靜。就讓這首歌，把當時如此溫柔卻又如此強而有力的治癒力量，同樣傳遞給你。</p>
-                <p>MV故事來到第十二集，Gloria（G.E.M.鄧紫棋飾）知道自己不屬於這個世界，她做出了一個出於愛的決定。Evan（孫晨竣飾）發現Gloria自行刪除數據回到廢土，一時間無法接受，頻臨崩潰。那一夜Evan回到家中，發現Gloria在窗台留給自己的字條，他拉開了窗簾，第一次看見了那個坐在輪椅上，跟Gloria長得一模一樣的女孩。</p></main>
-        <nav><h3><p><a href="https://youtu.be/3OSGYTj08rU">《夜的盡頭 THE END OF NIGHT》</a></p></h3></nav> 
-            <main><p>拆開《啓示錄》的第十三封信《夜的盡頭》，我們終於在黑暗極處重見光明，在夜的盡頭重獲自由。</p>
-                <p>你可曾想過宇宙間的每一顆星、藍天上的每一片雲，還有每一朵花、每一片葉、每一滴雨露、每一束光...都是為著愛你而被創造？你是否想過我們擁有的每一分秒、每個呼吸，都是一個感受美好、見證奇蹟的機會？原來一切都是為了我們，原來我們竟擁有著這麼多。來到《啓示錄》的倒數第二首歌，G.E.M.鄧紫棋帶來一幅破曉的畫卷，儘管世界狂如洪流，但我們既被如此深深愛著，便無所畏懼。這就是，真正的自由。</p>
-                <p>MV故事來到第十三集，Gloria（G.E.M.鄧紫棋飾）自行刪除數據回到廢土，她知道自己也許從此要在這裡獨自生活，卻依然願為Evan（孫晨竣飾）著想，作出這個出於愛的決定。她沒想到的是，有一天，當她在廢土酒吧裡睹物思人時，沙發上卻投射出一個漸漸靠近的身影，她抬頭居然看見Evan走近坐在她對面，就在當時樂土酒吧裡第一次見面時一樣的位置上。原來在現實裡，持之以恆經常來給秋（G.E.M.鄧紫棋飾）送小盆栽的Evan，也同樣有為Gloria著想，於是他把自己的角色刪除，讓他的數字人可以到廢土裡陪伴Gloria。另一邊，Gloria在秋（G.E.M.鄧紫棋飾）的信上留下的一句話：「你相信他會愛真實的你嗎」則在秋的心裡慢慢發芽，秋開始學習打開自己，接受Evan的關心。</p>
-                <p>沒有愛的地方，才是荒漠。只要心中有愛，再荒廢的世界都可以重現生機。Gloria和Evan走在這荒涼的廢土裡，心裡卻無比開心、自由。</p></main>
-        <nav><h3><p><a href="https://youtu.be/gCQuEa">《天空沒有極限 THE SKY》</a></p></h3></nav>   
-        <main><p>拆開《啓示錄》的最後一封信《天空沒有極限》，曾經遭遇的種種，都只是在試煉我們的信心，當我們不再懷疑，真正相信自己相信愛，未來真的無邊。</p>
-            <p>對於歌迷來說，《天空沒有極限》並不陌生，這是一首很多歌迷都翹首以待想聽到完整版的歌曲。在G.E.M.鄧紫棋踏入30歲的階段，她確實真真切切地看見，她的世界要大放異彩，她的天空沒有極限。這除了是對自己的一種期許以外，也是在收到前面六封天堂的回信之後，真正讓愛活在自己裡面時的信心。而基於這首歌特別的意義，G.E.M.鄧紫棋更邀請了M9 Marginal Youth Singing Choir一眾與她有共同信仰的年輕人，參與歌曲結尾大合唱的部分，寓意新的一代同樣有著無邊的未來！</p>
-                <p>而《啓示錄》音樂連續劇的MV故事也來到了大結局，Gloria（G.E.M.鄧紫棋飾）臨走前說的話，在秋（G.E.M.鄧紫棋飾）心裡慢慢紮根，伴隨著Evan（孫晨竣飾）鍥而不捨的隔空關心與鼓勵，讓秋終於慢慢能相信，真實的自己是會被愛的。她不再拋棄自己，重新打扮自己，並開始了復健訓練。一天，Evan如常來到秋的門口放下小禮物，卻第一次聽到了開門聲。眼前是裝上了義肢，站著開門的秋。天台上，Evan問了在樂土世界向Gloria表白時一模一樣的問題，不一樣的是，這一次，面對愛，秋再也沒有閃躲。全劇終。</p>
-                    <p>G.E.M.鄧紫棋第八張全創作專輯《啓示錄》圓滿落幕，但只要我們願意，愛的啟示依然會每天臨到我們的心中。願每個人每一天都經歷到愛。愛是永不止息。</p></main>
-    </body>
-</html>  
+          <h2>鄧紫棋帶著她的新專輯《啓示錄》回來啦!14首新歌、14個MV，和一個她人生中首次擔任編劇的完整故事。</h2>
+        <nav><h3>&ensp;Follow ☟ G.E.M.鄧紫棋</h3></nav>
+            <p><a href="https://www.instagram.com/gem0816/" target="_blank" rel="nofollow"><img alt="Instagram" style="position:relative;left:20px" width="70" height="70" src="https://joyaijia.tw/wp-content/plugins/blogimove/class/../image/icon_ig.png"></a>
+            <a href="https://weibo.com/gemtang" target="_blank" rel="nofollow"><img alt="Weibo" style="position:relative;left: 25px" width="70" height="70" src="https://cdn-icons-png.flaticon.com/512/408/408769.png"></a>
+            <a href="https://www.youtube.com/c/gem0816" target="_blank" rel="nofollow"><img alt="YouTube" style="position:relative;left:30px" width="70" height="70" src="https://pngimg.com/uploads/youtube/youtube_PNG19.png"></a>
+            <a href="https://www.facebook.com/G.E.M.OfficialPage/" target="_blank" rel="nofollow"><img alt="YouTube" style="position:relative;left:30px" width="100" height="70" src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19751.png"></a></p></ul>
+            <details open="">
+            <summary class="blogimove-archorlist-title" style="background-color:#rgb(252, 214, 199);color:#000000">索引目錄</summary>
+            <li class="song" style="list-style-type:cjk-ideographic;color:#000000;background-color:#ffffff"><a href="#《GLORIA》" style="background-color:#ffffff;color:#000000">《GLORIA》</a></li>
+            <li class="song" style="list-style-type:cjk-ideographic;color:#000000;background-color:#ffffff"><a href="#《HELL》" style="background-color:#ffffff;color:#000000">《HELL》</a></li>
+            <li class="song" style="list-style-type:cjk-ideographic;color:#000000;background-color:#ffffff"><a href="#《只有我和你的地方 ME & YOU》" style="background-color:#ffffff;color#000000">《只有我和你的地方 ME & YOU》</a></li>
+            <li class="song" style="list-style-type:cjk-ideographic;color:#000000;background-color:#ffffff"><a href="#《你不是第一個離開的人 MAN WHO LAUGHS》" style="background-color:#ffffff;color:#000000">《你不是第一個離開的人 MAN WHO LAUGHS》</a></li>
+            <li class="song" style="list-style-type:cjk-ideographic;color:#000000;background-color:#ffffff"><a href="#《不想回家 SOLITUDE》" style="background-color:#ffffff;color:#000000">《不想回家 SOLITUDE》</a></li>
+            <li class="song" style="list-style-type:cjk-ideographic;color:#000000;background-color:#ffffff"><a href="#《受難曲 PASSION》" style="background-color:#ffffff;color:#000000">《受難曲 PASSION》</a></li>
+            <li class="song" style="list-style-type:cjk-ideographic;color:#000000;background-color:#ffffff"><a href="#《冰河時代 ICE AGE》" style="background-color:#ffffff;color:#000000">《冰河時代 ICE AGE》</a></li>
+            <li class="song" style="list-style-type:cjk-ideographic;color:#000000;background-color:#ffffff"><a href="#《少年與海 YOUNG MAN & SEA》" style="background-color:#ffffff;color:#000000">《少年與海 YOUNG MAN & SEA》</a></li>
+            <li class="song" style="list-style-type:cjk-ideographic;color:#000000;background-color:#ffffff"><a href="#《老人與海 OLD MAN & SEA》" style="background-color:#ffffff;color:#000000">《老人與海 OLD MAN & SEA》</a></li>
+            <li class="song" style="list-style-type:cjk-ideographic;color:#000000;background-color:#ffffff"><a href="#《FIND YOU》" style="background-color:#ffffff;color:#000000">《FIND YOU》</a></li>
+            <li class="song" style="list-style-type:cjk-ideographic;color:#000000;background-color:#ffffff"><a href="#《離心力 F=mw²r》" style="background-color:#ffffff;color:#000000">《離心力 F=mw²r》</a></li>
+            <li class="song" style="list-style-type:cjk-ideographic;color:#000000;background-color:#ffffff"><a href="#《讓世界暫停一分鐘 ONE MINUTE》" style="background-color:#ffffff;color:#000000">《讓世界暫停一分鐘 ONE MINUTE》</a></li>
+            <li class="song" style="list-style-type:cjk-ideographic;color:#000000;background-color:#ffffff"><a href="#《夜的盡頭 THE END OF NIGHT》" style="background-color:#ffffff;color:#000000">《夜的盡頭 THE END OF NIGHT》</a></li>
+            <li class="song" style="list-style-type:cjk-ideographic;color:#000000;background-color:#ffffff"><a href="#《天空沒有極限 THE SKY》" style="background-color:#ffffff;color:#000000">《天空沒有極限 THE SKY》</a></li>
+        </ul>
+            </details>  
+            <p><img src="https://shoplineimg.com/5d970543b69d350001ac9ba4/632c8b355f257b00163b3cf5/800x.jpg?"height="600" width="600"></p>
+               <main>
+                <p><h4><li>(文中將以她的視角去呈現)</li></h4></p>
+                <p><h4>人們把一首歌完整聽完的耐心似乎越來越少。
+                而我在新專輯裡寫了14首。
+                每一首歌對我來說都是很珍貴的啟示，
+                無論是讓我更認識自己、還是讓我更認識愛。
+                不甘心這14首我珍而重之的歌曲會被草草略過，
+                我想讓人用心聽完它們，
+                於是我想了一個方法⋯</h4></p>
+                
+                <p><h4>音樂連續劇 。
+                整張專輯裡每一首歌有一個獨立MV，
+                串起來卻是一個有連續劇情的完整故事。</h4></p>
+                
+                <p><h4>我能預計到做這樣一件新事情，
+                過程一定會很艱難，
+                所以半年前我選擇了完全閉關，
+                讓自己能完全專注在這個新作品上。
+                但我低估了現實的巨浪能有多洶湧。</h4></p>
+                
+                <p><h4>拍攝期間剛好碰上反覆的疫情，
+                我和團隊經歷了一次次拍攝被迫叫停、
+                必須換演員全部重拍等許多緊急的事情，
+                製作進度受到巨大影響。
+                過程真的比我想像中艱辛好多好多，
+                但在這個嚴重需要愛的世界裡，我相信我能做的就是盡力為大家帶來能讓人重新看見愛、相信愛、回歸愛的作品。
+                所以一切波折都不重要，
+                只要能完成作品。</h4></p>
+                
+                <p><h4>我們盡全力了。
+                如今我終於能帶著我的新作品回歸。
+                接下來，請大家笑納這一本對我而言極其寶貴的《啓示錄》。
+                祝福大家也能走上一段屬於你的啟示之路。</h4></p>
+            </main>
+        <nav><h3><p><a href=" https://youtu.be/stGUpMav1sc">《GLORIA》<a id="《GLORIA》" name="《GLORIA》"></a></a></p></h3></nav>
+        <p><img src="https://i.ytimg.com/vi/stGUpMav1sc/maxresdefault.jpg" height="531" width="1000" ></p>
+        <main><p><h4>華語創作天后G.E.M.鄧紫棋第八張全創作專輯《啓示錄》，首波核心主打《GLORIA》為啟示之路掀開神聖序幕！
+                七封致天堂的信，七封天堂的回信。經過潛心閉關，G.E.M.鄧紫棋終於帶來2022年全新創作專輯《啓示錄》的第一封信《GLORIA》，帶我們踏上這條關於愛的啟示之路。</h4></p>
+                 <p><h4>《GLORIA》的誕生源於G.E.M.鄧紫棋的英文原名Gloria。她分享道：「Gloria是爸爸給我取的名字。我從小就覺得很好聽，而且充滿榮耀。長大了，更認定這是我的使命 - 在世上作鹽作光。」當2022的世界變得如此魔幻，G.E.M.鄧紫棋在壓抑的大環境下，安靜誠實地探尋自己的內心，希望用最真實的生命影響生命：「因為我們成了一臺戲，給世人和天使觀看。」</h4></p>
+                 <p><h4>音樂方面，流動的電子音色營造了荒野的基底色調；副歌裡808與和聲的簡潔搭配，營造了在靈裡那簡單卻震撼的呼喚；加上電吉他、弦樂的層層遞進，還有那帶著平安的歌聲，我們彷彿能聽到Gloria在最絕望時那從天而來聖潔榮耀的安慰。</h4</p>
+                 <p><h4>音樂錄影帶方面，G.E.M.鄧紫棋史無前例以連續劇形式呈現整張專輯每一首歌，為流行樂壇展開歷史的新一頁。首次擔任主創、編劇及監製的她，聯同全能影像創作人林博導演共同打造14集音樂連續劇。整張專輯每一首歌都有一個獨立MV，串起來卻是一個有連續劇情的大故事。G.E.M.鄧紫棋坦言：「在這個碎片時代，已經很少觀眾有耐心完整聽完一首歌，但是我卻有14首我認為極其珍貴的啟示想與大家分享，終於我想到了音樂連續劇這一種新的形式，希望能吸引觀眾用心聽完專輯裡的每首作品。」為此，G.E.M.鄧紫棋開始了人生中第一次的劇本寫作，創作了屬於自己的第一個原創故事。</p>
+                 <p><h4>在元宇宙遇上愛，這是網絡3.0時代愛的啟示。故事以虛擬世界為背景，呈現當今社會的真實面貌，包括人對自我形象缺乏安全感的掙扎和焦慮、在生活種種挫折下的迷失，還有網絡暴力對人心與關係的撕裂等等問題，從而引出對一場關於愛的深思。愛，就是我們在此刻壓抑的大環境下，最需要學習的課題。</h4></p>
+                 <p><h4>首集開端，Gloria（G.E.M.鄧紫棋飾）身處荒蕪的「廢土」中，周圍是殘垣斷壁的建築，整座城市失去了生機。她望向那熟識的廣告牌「Welcome to AFTERLAND」，她知道自己再也回不去。她黯然無光地在廢土穿行，越過黑沙來到海邊，絕望地祈禱。正當她無力地跪倒在海面之際，海水竟然向兩邊分開，萬丈海浪，高聳成牆，啓示之門從這一刻起正式打開。</h4></p></main>
+                 <a class="ytp-title-link yt-uix-sessionlink" target="_blank" data-sessionlink="feature=player-title" tabindex="-1" href="https://youtu.be/stGUpMav1sc"><h4>前往聽歌 ☛☛☛《GLORIA》</h4></a>
+            </details>
+            <nav><h3><p><a href=" https://youtu.be/JflOKxCx97o">《HELL》<a id="《HELL》" name="《HELL》"></a></a></p></h3></nav>
+            <p><img src="https://i.ytimg.com/vi/JflOKxCx97o/maxresdefault.jpg" height="531" width="1000" ></p>
+        <main><p><h4>拆開《啓示錄》的第二封信《HELL》，G.E.M.鄧紫棋用搖滾編曲與炸裂唱腔呈現每個情緒被魔鬼煽動的當下。慾望的縱容、情緒的失控，都會為一段關係點燃毀滅性的火種。當愛情參雜著佔有、控制、猜忌等等，無論開始多美好都終將走向滅亡。</h4></p>
+                <p><h4>為打造情緒如此強烈的第二主打，G.E.M.鄧紫棋選擇了標誌性的流行搖滾曲風，加上時而脆弱無力時而頑強掙扎的唱腔，營造猶如置身地獄被熊熊烈火包圍，讓人窒息的氛圍。而MV故事來到第二集，一場致命的車禍，揭開了秋（G.E.M.鄧紫棋飾）和男友Carl（Mark Ngai飾）原本美好的戀愛一步步被瓦解的過程。關於爭吵，關於混亂，關於破碎不堪的家，關於火焰翻滾的公路。到底是什麼原因讓這一切發生了天翻地覆的變化？</h4></p></main>
+                <a class="ytp-title-link yt-uix-sessionlink" target="_blank" data-sessionlink="feature=player-title" tabindex="-1" href="https://youtu.be/JflOKxCx97o"><h4>前往聽歌 ☛☛☛《HELL》</h4></a>
+        <nav><h3><p><a href=" https://youtu.be/UNgHD07NQKU">《只有我和你的地方 ME & YOU》<a id="《只有我和你的地方 ME & YOU》" name="《只有我和你的地方 ME & YOU》"></a></a></p></h3></nav>
+        <p><img src="https://i.kfs.io/album/global/187146042,1v1/fit/500x500.jpg" height="600" width="600" ></p>
+            <main><p><h4>拆開《啓示錄》的第三封信《只有我和你的地方》，G.E.M.鄧紫棋以浪漫性感的律動，夢幻迷離的唱腔，帶大家進入愛情最動人的瞬間。</h4></p>
+                <p><h4>之所以說「墜入愛河」，是因為「墜」是一個讓人放開雙手，失去一切控制的過程。在你墜入愛河的一瞬間，你不再有所保留，心卻也因為這樣而充滿自由和勇氣，無懼一切。你完全沉浸在只有兩個人的世界，周遭即使狂風暴雨都與你無關。有別於G.E.M.鄧紫棋過往滿有力量的聲音，這一次貫穿全曲的是纏綿動人，偏重氣聲的唱腔。而編曲帶點科幻的R&B曲風，則成功營造了讓人猶如置身夢境般的浪漫氛圍。</h4></p>
+                <p><h4>MV方面，故事來到第三集，Gloria（G.E.M.鄧紫棋飾）在元宇宙AFTERLAND（樂土）中邂逅男主角Evan（孫晨竣飾）。從相識到相愛，要從YOUNG MAN & SEA 這家酒吧說起，一杯名為「銀色漩渦」的飲料，見證了他們為彼此掉進迷人的愛情漩渦。他們每晚都相約在樂土，在無人的街道奔跑，在打烊的酒吧裡相擁，在整個城市裡穿行。有一天Evan開車帶Gloria來到樂土的邊界，觀賞這伸手觸碰才能看見的，直通天際的巨型紫色隔離層。浪漫氣氛之下，Evan終於鼓起勇氣想於線下相約，二人美好甜蜜的關係卻從這一刻開始產生了變化......</h4></p></main>
+                <a class="ytp-title-link yt-uix-sessionlink" target="_blank" data-sessionlink="feature=player-title" tabindex="-1" href="https://youtu.be/UNgHD07NQKU"><h4>前往聽歌 ☛☛☛《只有我和你的地方 ME & YOU》</h4></a>   
+        <nav><h3><p><a href=" https://youtu.be/F4vGFscB_fg">《你不是第一個離開的人 MAN WHO LAUGHS》<a id="《你不是第一個離開的人 MAN WHO LAUGHS》" name="《你不是第一個離開的人 MAN WHO LAUGHS》"></a></a></p></h3></nav>
+        <p><img src="https://i.ytimg.com/vi/F4vGFscB_fg/maxresdefault.jpg" height="531" width="1000" ></p>
+            <main><h4><p>拆開《啓示錄》的第四封信《你不是第一個離開的人》，這是她剛強快樂的外表下，最真實破碎的心聲...</h4></p>
+                <p><h4>「可我笑裡為何帶著淚光，而你為何沒發現？」從2008年出道至今已十四年的G.E.M.鄧紫棋早就經歷過各種悲歡離合。無論是親人離世還是戀人離合，還是朋友、工作夥伴或歌迷的聚散，她早就明白世上沒有永遠留下的人，只有還沒離開的人。表面上是華語樂壇中流砥柱的創作天后，在舞台上如此活力自信，帶給每個人歡笑，生活裡卻跟每一個小女生一樣，害怕離別，害怕失去。這種被隱藏在笑容之下的脆弱和孤單，只有在無人的深夜裡，才被袒露出來。歌曲的靈感來自世界知名法國作家維克多 · 雨果的小說《笑面人》，沒有豪華絢麗的編曲，沒有驚艷炫技的展示，只有簡單的鋼琴、管弦樂，和內心最真實感觸的剖白。</h4></p>
+                <p><h4>MV故事來到第四集，Gloria（G.E.M.鄧紫棋飾）醒來發現自己身處荒蕪的廢土，一切如此熟悉，卻又如此陌生。曾經充滿著美好回憶的樂土，是如何變成如今一片死寂的廢土？。從此她蒐集著每一滴滿載回憶的眼淚，度日如年地活著。有一天她在廢土的邊界溜達，卻意外發現Evan（孫晨竣飾）也開車來到這裡。原來Evan在Gloria無故下線後，去遍在樂土曾經見證過他們愛情萌芽的每一處地方，苦苦追尋著她。望著眼前這朝思暮想渴望再見到的身影，Gloria猶如在黑夜看見曙光，開心地想Evan跑過去，卻忘了彼此之間有著一個無法穿越的隔離層。Gloria這才發現原來在Evan的眼前，自己彷如一片虛無。到底是什麼讓二人從此相隔兩個世界？到底Gloria是已經從一個美夢中醒來，還是正身處一個噩夢之中？</h4></p></main>
+                <a class="ytp-title-link yt-uix-sessionlink" target="_blank" data-sessionlink="feature=player-title" tabindex="-1" href="https://youtu.be/F4vGFscB_fg"><h4>前往聽歌 ☛☛☛《你不是第一個離開的人 MAN WHO LAUGHS》</h4></a>    
+        <nav><h3><p><a href=" https://youtu.be/eyn1qklZhPo">《不想回家 SOLITUDE》<a id="《不想回家 SOLITUDE》" name="《不想回家 SOLITUDE》"></a></a></p></h3></nav>
+        <p><img src="https://i.ytimg.com/vi/eyn1qklZhPo/maxresdefault.jpg" height="531" width="1000" ></p>
+            <main><p><h4>拆開《啓示錄》的第五封信《不想回家》，G.E.M.鄧紫棋聯手內地知名嘻哈製作人老道帶來這首優美卻不失律動的Trap旋律說唱。</h4></p>
+                <p><h4>自從在上一張專輯《摩天動物園》裡加入了大量說唱元素而大獲成功後，G.E.M.鄧紫棋相繼推出《孤獨》、《無雙的王者》等各具特色的說唱歌曲，行業間備受好評。如今新專輯裡繼續帶來極具個人特色的旋律說唱，展現說唱與歌藝的高度融合。略帶孤單的和弦、流動感十足的鍵盤和吉他、律動感極強的鼓點，為歌曲建構了強烈的流行感。在flow的編排上，G.E.M.鄧紫棋給出讓人雙眼為之一亮的編排。主歌段落中抓住了特別的律動與停頓，副歌旋律更是朗朗上口，加上讓人深有共鳴的歌詞，初聽就讓人留下深刻印象。</h4></p>
+                <p><h4>MV故事來到第五集。秋（G.E.M.鄧紫棋飾）每天戴著VR眼鏡，與好友露露（歐陽娜娜飾）沉醉於元宇宙AFTERLAND（樂土）。有一天秋在樂土的角色Gloria（G.E.M.鄧紫棋飾）居然在搜索「附近的人」時看見對面大廈新搬進來的住戶Evan（孫晨竣飾），兩人開始譜寫一段浪漫的故事。一切美好如夢，直到那一天，Evan提出希望相約線下，秋一時間無法想像要用自己真實的樣子面對Evan，慌亂間決定删除自己的帳號......</h4></p></main>
+                <a class="ytp-title-link yt-uix-sessionlink" target="_blank" data-sessionlink="feature=player-title" tabindex="-1" href="https://youtu.be/eyn1qklZhPo"><h4>前往聽歌 ☛☛☛《不想回家 SOLITUDE》</h4></a>       
+        <nav><h3><p><a href=" https://youtu.be/wDsO97LiutM">《受難曲 PASSION》<a id="《受難曲 PASSION》" name="《受難曲 PASSION》"></a></a></p></h3></nav>
+        <p><img src="https://imgur.dcard.tw/wRXz99vh.jpg" height="600" width="550" ></p>
+            <main><p><h4>拆開《啓示錄》的第六封信《受難曲》，G.E.M.鄧紫棋驚喜與 內地新聲代⻤才音樂人太一首次聯動，以驚喜萬分的曲風揭露那些躲在匿名國度裡的猙獰面目。</h4></p>
+                <p><h4>自從互聯網誕生開始，網絡逐漸變成人類新的戰場。這裡缺乏對真相的􏰀視，缺乏對言語的負責， 卻從不缺乏對他人的審判。G.E.M.鄧紫棋也曾遭遇「全網黑」的網絡暴力，曾因此足不出戶，終日 以淚洗面。她慶幸自己已從舊日可怕的網絡暴力中走出來，找到了面對的方法，卻始終痛恨這種躲 在屏幕後面的有恃無恐。眼見網絡暴力在現實中釀成多不勝數的悲劇，不論公眾人物還是普羅大 眾，新聞上不時出現有人因為受到網絡暴力而自盡離世的新聞，G.E.M.鄧紫棋把心中無處宣洩的悲 憤化為力量，呼籲大眾共同拒絕網絡暴力!</h4></p>
+                <p><h4>歌曲方面，《受難曲》可算是G.E.M.鄧紫棋出道以來最具實驗性的作品之一。G.E.M.鄧紫棋先為歌 曲寫了一段具有濃烈古典氣息的前奏，卻選用詭異的音樂盒音色彈奏，為歌曲奠定荒誕的基調。而 編曲的暗黑詭祕配以情緒爆裂的說唱，無情揭露網路世界扭曲、陰暗的一面。歌曲結構方面，亦可 見其􏰂心與突破，全曲沒有任何一個段落􏰀複，在流行音樂作品裡實屬鮮有。演唱上，G.E.M.鄧紫 棋亦再度超越自己，為了營造在網絡暴力中絕望的求救，歌曲末段更是突破過往所有作品的音域的 極限，再一次驗證了那句「只有鄧紫棋才能超越鄧紫棋」。</h4></p>
+                <p><h4>而MV故事來到了第六集，Carl(Mark Ngai飾)原來是一個當紅模特，他與秋(G.E.M.鄧紫棋飾) 的戀情被偷拍曝光，火速登上新聞頭條，評論區各種嘲諷與謾罵刺痛著她的心。她努力壓抑著內心 的波動來到拍攝現場繼續工作，尖酸刻薄的言語卻早就給她造成更深的自卑......</h4></p></main>
+                <a class="ytp-title-link yt-uix-sessionlink" target="_blank" data-sessionlink="feature=player-title" tabindex="-1" href="https://youtu.be/wDsO97LiutM"><h4>前往聽歌 ☛☛☛《受難曲 PASSION》</h4></a>       
+        <nav><h3><p><a href=" https://youtu.be/hwENuZHFTj0">《冰河時代 ICE AGE》<a id="《冰河時代 ICE AGE》" name="《冰河時代 ICE AGE》"></a></a></p></h3></nav>
+        <p><img src="https://i.ytimg.com/vi/hwENuZHFTj0/maxresdefault.jpg" height="531" width="1000" ></p>
+            <main><p><h4>拆開《啓示錄》的第七封信《冰河時代》，我們終於等到了G.E.M.鄧紫棋的招牌「鄧氏情歌」！</h4></p>
+                <p><h4> G.E.M.鄧紫棋唱作十四年，各種風格都信手拈來，新專輯前六首歌無論是詞曲還是編曲製作還是創新的音樂連續劇MV，都已經全然展示了比過往專輯更上幾層樓的品質，成為她音樂道路上全新的里程碑。而來到新專輯的第七首主打，G.E.M.鄧紫棋再次聯手內地全能音樂人宮閣，打造氛圍感十足的輕搖滾情歌《冰河時代》。</h4></p>
+                <p><h4>經歷過《Hell》的爆裂炙熱，這一次G.E.M.鄧紫棋帶我們經歷《冰河時代》的極寒風暴。能摧毀愛情的不只是慾望的放縱或情緒的失控，還有驕傲的作崇和愛與責任的失重。多少戀人從剛開始很願意溝通自己的情緒和想法，卻因為種種原因慢慢開始自我抽離，變得不願再表達需求而漸生隔膜？多少愛情從剛萌芽的時候做什麼都心甘樂意，到後來很多事情變成只是出於責任而越發覺得很壓抑？多少人不是不愛了，只是愛得累了？多少人眼睜睜看著炙熱的愛情慢慢變冷，卻不明所以也不知所措？這首歌描繪的，正是當愛情進入冰河時代的無奈。</h4></p>
+                <p><h4>MV故事來到第七集，自從Gloria（G.E.M.鄧紫棋飾）在樂土消失後，秋（G.E.M.鄧紫棋飾）常常坐在窗前偷看對面大廈惆悵的Evan（孫晨竣飾）。秋知道Evan正是因為自己而傷心，她卻不敢讓這份感情繼續發展。而Evan長時間尋找Gloria未果，作為一位計算機工程師，他開始產生了一個實驗性的想法。他每天待在倉庫，埋頭製造機器人，希望追縱Gloria在樂土的數據，把她帶到現實世界中。秋久久不見Evan回家，心裡很是忐忑，到底她和Evan的故事還能繼續嗎？終於她寫了一封信，決定把這段感情的命運交給神......</h4></p></main>
+                <a class="ytp-title-link yt-uix-sessionlink" target="_blank" data-sessionlink="feature=player-title" tabindex="-1" href="https://youtu.be/hwENuZHFTj0"><h4>前往聽歌 ☛☛☛《冰河時代 ICE AGE》</h4></a>       
+        <nav><h3><p><a href=" https://youtu.be/5R4y4ZVgR70">《少年與海 YOUNG MAN & SEA》<a id="《少年與海 YOUNG MAN & SEA》" name="《少年與海 YOUNG MAN & SEA》"></a></a></p></h3></nav>    
+        <p><img src="https://i.ytimg.com/vi/5R4y4ZVgR70/maxresdefault.jpg" height="531" width="1000" ></p>
+            <main><p><h4>拆開《啓示錄》的第八封信《少年與海》，短短53字的歌詞中，G.E.M.鄧紫棋發出最沉重的靈魂拷問：我為何醒來？我該如何存在？</h4></p>
+                <p><h4>有別於過往的作品，G.E.M.鄧紫棋以偏向電影配樂的方式處理《少年與海》這首作品。戲劇化又富有張力的編曲，以鋼琴和管弦樂為主色彩，層層遞進，就像渺小的自己站在茫茫大海面前，孤獨地感受著自己一切疑惑，帶出少年在人生過程中苦苦尋求答案的內心掙扎。</h4></p>
+                <p><h4>MV故事來到第八集。原來那時候秋（G.E.M.鄧紫棋飾）是一名年輕有才的新晉設計師，加入了大品牌工作，像一顆閃閃發光的寶石，自信美麗。 露露（歐陽娜娜飾）是秋最好的朋友，也是最有默契的工作夥伴。在一次時裝秀的後台，秋認識了當時為品牌走秀的當紅模特Carl（Mark Ngai飾），兩人迅速相戀。一切本來如此美好，直到那一次致命的車禍。剛出院的秋，難以適應輪椅生活。一個外表亮麗，又對美有極高追求的人，一下子變成了殘缺的狀態，是一種很大的打擊。於是她變得不願意出門，甚至把最好的朋友也拒之門外......</h4></p></main>
+                <a class="ytp-title-link yt-uix-sessionlink" target="_blank" data-sessionlink="feature=player-title" tabindex="-1" href="https://youtu.be/5R4y4ZVgR70"><h4>前往聽歌 ☛☛☛《少年與海 YOUNG MAN & SEA》</h4></a>       
+        <nav><h3><p><a href=" https://youtu.be/7CgVQPwd9M8">《老人與海 OLD MAN & SEA》<a id="《老人與海 OLD MAN & SEA》" name="《老人與海 OLD MAN & SEA》"></a></a></p></h3></nav>    
+        <p><img src="https://i.ytimg.com/vi/7CgVQPwd9M8/maxresdefault.jpg" height="531" width="1000" ></p>
+            <main><p><h4>拆開《啓示錄》的第九封信《老人與海》，那個面對著生活狂風驟雨的少年，等到了老人的回答。</h4></p>
+                <p><h4>上一首《少年與海》與這一首《老人與海》是兩首密不可分的作品，承上啓下，日月呼應，靈感均來自20世紀最著名作家之一歐內斯特 · 海明威生前最後一部主要作品《老人與海》。G.E.M.鄧紫棋回想入行十四年，她曾無數次被人生的巨浪一次次衝擊著，遍體鱗傷。於是在《少年與海》裡，她表達了這種渺小的自己面對殘酷的茫茫大海的無力與困惑。但當人尋求，就會尋見。終於她等到了這一封天堂的回信。G.E.M.鄧紫棋形容《老人與海》就像是神直接在她心裡寫下的答案：「桑田滄海，愛是依舊無改，我是因愛而在，為愛醒來。」</h4></p>
+                <p><h4>而命運也好像在給這個少年再一次的機會，親身體驗這種因著愛的堅定不移。在《啓示錄》音樂連續劇MV的拍攝過程中，G.E.M.鄧紫棋經歷著一路波折，面對疫情、人力物力缺失、拍攝期間多次必須中途叫停、接連需要更換演員重拍等諸多困擾，一個個衝擊就像歌曲裡「殘酷的大海」。但這一次，G.E.M.鄧紫棋心裡卻很是堅定，她相信這一張專輯是她在這瘋狂世代裡的一個使命，要為破碎的心帶來盼望。無論有多少困難，愛就是不放棄，不動搖。她與團隊一起懷著信心排除困難，傾盡全力，終於完成了整張專輯的音樂連續劇MV拍攝。</h4></p>
+                <p><h4>而MV來到第九集，我們也終於看見因著愛的奇蹟。當時在Gloria（G.E.M.鄧紫棋飾）絕望之際，海水為她分開，萬丈海浪，高聳成牆。當她步向海中心為她打開的那扇門，現實裡屢敗屢試，苦苦尋覓著Gloria的Evan（孫晨竣飾），終於成功把Gloria在樂土世界的數據下載到機器人身體中。原來奇蹟不止臨到了在海邊無力跪下的Gloria，也臨到了在倉庫中看著機器人Gloria慢慢甦醒的Evan。</h4></p></main>
+                <a class="ytp-title-link yt-uix-sessionlink" target="_blank" data-sessionlink="feature=player-title" tabindex="-1" href="https://youtu.be/7CgVQPwd9M8"><h4>前往聽歌 ☛☛☛《老人與海 OLD MAN & SEA》</h4></a>       
+        <nav><h3><p><a href=" https://youtu.be/1YWmCiWCxlE">《FIND YOU》<a id="《FIND YOU》" name="《FIND YOU》"></a></a></p></h3></nav>   
+        <p><img src="https://i.ytimg.com/vi/1YWmCiWCxlE/maxresdefault.jpg" height="531" width="1000" ></p>
+            <main><p><h4>開《啓示錄》的第十封信《FIND YOU》，這是一份沒有任何人、任何事能攔阻的熱忱。</h4></p>
+                <p><h4>如果說《老人與海》是愛恆久不變，溫柔守護的一面，那麼《FIND YOU》就是愛跨越重山，熱切追隨的另一面。歌曲從靈動又充滿力量的弦樂開始，伴隨副歌鼓點的切入和G.E.M.鄧紫棋歌聲裡激昂的熱情，愛的永不止息如同徹耳貫雷瞬間湧入，讓人體會到那種緊緊相隨，永不放手的決心。</h4></p>
+                <p><h4>而MV故事來到第十集，排除萬難把Gloria（G.E.M.鄧紫棋飾）的數據從樂土帶到現實的Evan（孫晨竣飾），帶著這個剛甦醒的AI機器人重新認識世界。就像過往在樂土世界一樣，如今他們在現實裡一起分享著很多快樂的時光，而Gloria作為一個AI機器人，也快速地學習著Evan的一切，包括他的廚藝，和他的愛。</h4></p></main>
+                <a class="ytp-title-link yt-uix-sessionlink" target="_blank" data-sessionlink="feature=player-title" tabindex="-1" href="https://youtu.be/1YWmCiWCxlE"><h4>前往聽歌 ☛☛☛《FIND YOU》</h4></a>       
+        <nav><h3><p><a href=" https://youtu.be/2203HZpe0_Q">《離心力 F=mw²r》<a id="《離心力 F=mw²r》" name="《離心力 F=mw²r》"></a></a></p></h3></nav>    
+        <p><img src="https://i.scdn.co/image/ab67616d0000b273da0592c083db35b9d9bb2473" height="600" width="600" ></p>
+            <main><p><h4>拆開《啓示錄》的第十一封信《離心力》，是一份極其珍貴的禮物：自由意志。</h4></p>
+                <p><h4>愛是給予對方選擇的權利，就像生命給了我們自由意志。認真思索，我們不難發現自由意志背後那份愛，有著多大的包容。凡事相信，凡事盼望，凡事忍耐，凡事包容，這樣的愛才讓那明明很有可能會「離心」的我們，仍然有選擇的自由。為了突顯這份愛背後所承受著沉重的痛，G.E.M.鄧紫棋選擇了首次嘗試迷幻DISCO曲風，充滿金屬感的音色和充滿迫切感的律動，營造出在愛裡給予選擇的一刻，心中感受到的那種動魄驚心的「離心力」。</h4></p></main>
+                <a class="ytp-title-link yt-uix-sessionlink" target="_blank" data-sessionlink="feature=player-title" tabindex="-1" href="https://youtu.be/2203HZpe0_Q"><h4>前往聽歌 ☛☛☛《離心力 F=mw²r》</h4></a>       
+        <nav><h3><p><a href=" https://youtu.be/wpyVeB9y0ok">《讓世界暫停一分鐘 ONE MINUTE》<a id="《讓世界暫停一分鐘 ONE MINUTE》" name="《讓世界暫停一分鐘 ONE MINUTE》"></a></a></p></h3></nav>  
+        <p><img src="https://i.ytimg.com/vi/wpyVeB9y0ok/maxresdefault.jpg" height="531" width="1000" ></h4></p>
+            <main><p><h4>拆開《啓示錄》的第十二封信《讓世界暫停一分鐘》，讓翻騰的心，安靜一分鐘。</h4></p>
+                <p><h4>這幾年世界發生著翻天覆地的改變，肆虐的疫情是全人類正在共同面對的考驗，還有鄰國戰爭、以及世界各地各種天災人禍。生命的消逝、經濟的蕭條、病毒的入侵、食物的缺失、行動的限制等，我們禁不住會想，這個熟悉的世界好像已變得面目全非。而G.E.M.鄧紫棋也在這幾年間，於自己的生活裡經歷著各種困難，包括與前公司的法律訴訟，還有建立新團隊的種種挑戰。在被反反覆覆的困境包圍得寸步難行時，那曾是她最真實、最簡單的祈禱：「能不能，讓世界暫停一分鐘？」結果她真的慢慢聽到了回應，感受到陪伴，她翻騰的心，真的回歸了平靜。就讓這首歌，把當時如此溫柔卻又如此強而有力的治癒力量，同樣傳遞給你。</h4></p>
+                <p><h4>MV故事來到第十二集，Gloria（G.E.M.鄧紫棋飾）知道自己不屬於這個世界，她做出了一個出於愛的決定。Evan（孫晨竣飾）發現Gloria自行刪除數據回到廢土，一時間無法接受，頻臨崩潰。那一夜Evan回到家中，發現Gloria在窗台留給自己的字條，他拉開了窗簾，第一次看見了那個坐在輪椅上，跟Gloria長得一模一樣的女孩。</h4></p></main>
+                <a class="ytp-title-link yt-uix-sessionlink" target="_blank" data-sessionlink="feature=player-title" tabindex="-1" href="https://youtu.be/wpyVeB9y0ok"><h4></h>前往聽歌 ☛☛☛《讓世界暫停一分鐘 ONE MINUTE》</h4></a>       
+        <nav><h3><p><a href="https://youtu.be/3OSGYTj08rU">《夜的盡頭 THE END OF NIGHT》<a id="《夜的盡頭 THE END OF NIGHT》" name="《夜的盡頭 THE END OF NIGHT》"></a></a></p></h3></nav> 
+        <p><img src="https://i.ytimg.com/vi/3OSGYTj08rU/maxresdefault.jpg" height="531" width="1000" ></p>
+            <main><p><h4>拆開《啓示錄》的第十三封信《夜的盡頭》，我們終於在黑暗極處重見光明，在夜的盡頭重獲自由。</h4></p>
+                <p><h4>你可曾想過宇宙間的每一顆星、藍天上的每一片雲，還有每一朵花、每一片葉、每一滴雨露、每一束光...都是為著愛你而被創造？你是否想過我們擁有的每一分秒、每個呼吸，都是一個感受美好、見證奇蹟的機會？原來一切都是為了我們，原來我們竟擁有著這麼多。來到《啓示錄》的倒數第二首歌，G.E.M.鄧紫棋帶來一幅破曉的畫卷，儘管世界狂如洪流，但我們既被如此深深愛著，便無所畏懼。這就是，真正的自由。</h4></p>
+                <p><h4>MV故事來到第十三集，Gloria（G.E.M.鄧紫棋飾）自行刪除數據回到廢土，她知道自己也許從此要在這裡獨自生活，卻依然願為Evan（孫晨竣飾）著想，作出這個出於愛的決定。她沒想到的是，有一天，當她在廢土酒吧裡睹物思人時，沙發上卻投射出一個漸漸靠近的身影，她抬頭居然看見Evan走近坐在她對面，就在當時樂土酒吧裡第一次見面時一樣的位置上。原來在現實裡，持之以恆經常來給秋（G.E.M.鄧紫棋飾）送小盆栽的Evan，也同樣有為Gloria著想，於是他把自己的角色刪除，讓他的數字人可以到廢土裡陪伴Gloria。另一邊，Gloria在秋（G.E.M.鄧紫棋飾）的信上留下的一句話：「你相信他會愛真實的你嗎」則在秋的心裡慢慢發芽，秋開始學習打開自己，接受Evan的關心。</h4></p>
+                <p><h4>沒有愛的地方，才是荒漠。只要心中有愛，再荒廢的世界都可以重現生機。Gloria和Evan走在這荒涼的廢土裡，心裡卻無比開心、自由。</h4></p></main>
+                <a class="ytp-title-link yt-uix-sessionlink" target="_blank" data-sessionlink="feature=player-title" tabindex="-1" href="https://youtu.be/3OSGYTj08rU"><h4>前往聽歌 ☛☛☛《夜的盡頭 THE END OF NIGHT》</h4></a>       
+        <nav><h3><p><a href="https://youtu.be/gCQuEakOEFo">《天空沒有極限 THE SKY》<a id="《天空沒有極限 THE SKY》" name="《天空沒有極限 THE SKY》"></a></a></p></h3></nav>  
+        <p><img src="https://i.ytimg.com/vi/gCQuEakOEFo/maxresdefault.jpg" height="531" width="1000" ></p>
+        <main><p><h4>拆開《啓示錄》的最後一封信《天空沒有極限》，曾經遭遇的種種，都只是在試煉我們的信心，當我們不再懷疑，真正相信自己相信愛，未來真的無邊。</h4></p>
+            <p><h4>對於歌迷來說，《天空沒有極限》並不陌生，這是一首很多歌迷都翹首以待想聽到完整版的歌曲。在G.E.M.鄧紫棋踏入30歲的階段，她確實真真切切地看見，她的世界要大放異彩，她的天空沒有極限。這除了是對自己的一種期許以外，也是在收到前面六封天堂的回信之後，真正讓愛活在自己裡面時的信心。而基於這首歌特別的意義，G.E.M.鄧紫棋更邀請了M9 Marginal Youth Singing Choir一眾與她有共同信仰的年輕人，參與歌曲結尾大合唱的部分，寓意新的一代同樣有著無邊的未來！</h4></p>
+            <p><h4>而《啓示錄》音樂連續劇的MV故事也來到了大結局，Gloria（G.E.M.鄧紫棋飾）臨走前說的話，在秋（G.E.M.鄧紫棋飾）心裡慢慢紮根，伴隨著Evan（孫晨竣飾）鍥而不捨的隔空關心與鼓勵，讓秋終於慢慢能相信，真實的自己是會被愛的。她不再拋棄自己，重新打扮自己，並開始了復健訓練。一天，Evan如常來到秋的門口放下小禮物，卻第一次聽到了開門聲。眼前是裝上了義肢，站著開門的秋。天台上，Evan問了在樂土世界向Gloria表白時一模一樣的問題，不一樣的是，這一次，面對愛，秋再也沒有閃躲。全劇終。</h4></p>
+            <p><h4>G.E.M.鄧紫棋第八張全創作專輯《啓示錄》圓滿落幕，但只要我們願意，愛的啟示依然會每天臨到我們的心中。願每個人每一天都經歷到愛。愛是永不止息。</h4></p></main>
+            <a class="ytp-title-link yt-uix-sessionlink" target="_blank" data-sessionlink="feature=player-title" tabindex="-1" href="https://youtu.be/gCQuEakOEFo"><h4>前往聽歌 ☛☛☛《天空沒有極限 THE SKY》</h4></a>  
+            <footer><p></p><h6>©內文取自G.E.M.鄧紫棋看法，排版設計By Lisa</h6><p></p></footer>
+            <a href="#" class="back-to-top" style="position:absolute;left: 1200px"><h1>🔝</h1></a>
+    </body>            
+</html>
